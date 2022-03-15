@@ -2,8 +2,8 @@ package com.spring.tdd.model;
 
 import java.time.LocalDate;
 
-
 public class BookingModel {
+	
 		private String id;
 		private String reserveName;
 		private LocalDate checkIn;

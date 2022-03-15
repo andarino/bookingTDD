@@ -9,6 +9,7 @@ import org.springframework.stereotype.Service;
 import com.spring.tdd.model.BookingModel;
 import com.spring.tdd.repository.BookingRepository;
 
+
 @Service
 public class BookingService {
 	
